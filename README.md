@@ -38,7 +38,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/Rishi22rs/markdown-parser-frontend.git
+    $ git clone https://github.com/Rishi22rs/markdown-parser-backend.git
     $ cd markdown-editor-backend
     $ npm install
 
